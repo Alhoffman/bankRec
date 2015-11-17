@@ -1,0 +1,11 @@
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\bin\Debug\Bank Activity.exe.config
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\bin\Debug\Bank Activity.exe
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\bin\Debug\Bank Activity.pdb
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank Activity.csprojResolveAssemblyReference.cache
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.Properties.Resources.resources
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank Activity.csproj.GenerateResource.Cache
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank Activity.exe
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank Activity.pdb
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank Activity.csproj.ResolveComReference.cache
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.BankActitvityForm.resources
+\\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.MainForm.resources
