@@ -68,22 +68,29 @@ namespace Bank_Activity
             string savePath = textBox2.Text;
             string bank = BankActivityForm.GetItemText(BankActivityForm.SelectedItem);
 
-            //Change the cursor to a wait cursor
-            Cursor.Current = Cursors.WaitCursor;
-            this.label4.Text = "Please wait while the program does it's job...";
+			if ( filePath != null && savePath != null)
+			{
+				//Change the cursor to a wait cursor
+				Cursor.Current = Cursors.WaitCursor;
+				this.label4.Text = "Please wait while the program does it's job...";
 
-            //Run the program with a try clause for errors
-            try
-            {
-                MainProgram.Start(filePath, savePath, bank);
-            }
-            catch
-            {
-                MessageBox.Show("There was an error running the program please try again.");
-            }               
-                        
-            MessageBox.Show("The program has completed it's task");
-
+				//Run the program with a try clause for errors
+				try
+				{
+					MainProgram.Start(filePath, savePath, bank);
+				}
+				catch
+				{
+					MessageBox.Show("There was an error running the program please try again.");
+				}               
+							
+				MessageBox.Show("The program has completed it's task");
+			}
+			else
+			{
+                MessageBox.Show("You have not selected a file to open, or to save");
+			}
+			
             //Return to main form
             this.Hide();
             MainForm frm = new MainForm();

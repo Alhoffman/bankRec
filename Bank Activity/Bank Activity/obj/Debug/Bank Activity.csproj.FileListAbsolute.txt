@@ -9,3 +9,18 @@
 \\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank Activity.csproj.ResolveComReference.cache
 \\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.BankActitvityForm.resources
 \\fs\userdata\ltc\ahoffman\documents\visual studio 2015\Projects\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.MainForm.resources
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\bin\Debug\Bank Activity.exe.config
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank Activity.csproj.ResolveComReference.cache
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank Activity.exe
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank Activity.pdb
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank Activity.csprojResolveAssemblyReference.cache
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.BankActitvityForm.resources
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.MainForm.resources
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank_Activity.Properties.Resources.resources
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank Activity.csproj.GenerateResource.Cache
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\bin\Debug\Bank Activity.exe.manifest
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\bin\Debug\Bank Activity.application
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\bin\Debug\Bank Activity.exe
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\bin\Debug\Bank Activity.pdb
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank Activity.exe.manifest
+\\FS\UserData\LTC\ahoffman\Desktop\GitHub\bankRec\Bank Activity\Bank Activity\obj\Debug\Bank Activity.application
